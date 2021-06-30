@@ -1,0 +1,1 @@
+<script type='text/javascript' src='file://%INSTALLDIR%/receiveDWintent.js' pagecontent='Price and Stock Enquiry' pages='*' />
